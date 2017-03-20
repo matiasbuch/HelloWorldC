@@ -1,0 +1,4 @@
+C:\Matias\GitHub\HelloWorldC\HelloWorld\Debug>helloworld
+Hello World!
+
+C:\Matias\GitHub\HelloWorldC\HelloWorld\Debug>
