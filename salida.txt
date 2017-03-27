@@ -1,4 +1,4 @@
-C:\Matias\GitHub\HelloWorldC\HelloWorld\Debug>helloworld
+C:\Matias\GitHub\HelloWorldC>helloworld.exe
 Hello World!
 
-C:\Matias\GitHub\HelloWorldC\HelloWorld\Debug>
+C:\Matias\GitHub\HelloWorldC>
